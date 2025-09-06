@@ -179,7 +179,7 @@ export default function App() {
         >
           <div>
             <h1 className="text-4xl md:text-5xl font-extrabold leading-tight">
-              Hi — I'm{" "}
+              Hi — I<span>&apos;</span>m{" "}
               <span className="bg-clip-text text-transparent bg-gradient-to-r from-purple-600 to-blue-500">
                 Emmanuel
               </span>
